@@ -1,6 +1,5 @@
 Benvenuto nel mio profilo GitHub!
 
-Chi sono
 Ciao! Sono Oppedisano Gianluca, frequento il quinto anno all’ITIS G. Feltrinelli con indirizzo informatica.
 Inoltre sono appassionato di tecnologia con un interesse particolare per i motori e, deducendo dalla passione dei motori, seguo molto assiduamente la F1.
 
